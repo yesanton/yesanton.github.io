@@ -1,8 +1,8 @@
 # Site
 remote_theme: Massively
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              A Side Of Data
+bio:                'A Podcast about unconventional data science'
+description:        "A Podcast about unconventional data science"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -10,16 +10,23 @@ url: "" # the base hostname & protocol for your site
 # Comments
 disqus_shortname:   default
 
+# Social A Aside Of Data
+analytics-id:       "default"
+twitter:            twitter.com/asideofdata
+#facebook:           default
+#instagram:          default
+#github:             default
+
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            twitter.com/antonyeshchenko
+# facebook:           
+#instagram:          default
+github:             github.com/yesanton
 
 # personal
 location:           Vienna, CA
-phone:              310-318-5555
+#phone:              310-318-5555
 email:              asideofdata@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
