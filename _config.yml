@@ -10,22 +10,15 @@ url: "" # the base hostname & protocol for your site
 # Comments
 disqus_shortname:   default
 
-# Social A Aside Of Data
-analytics-id:       "default"
-twitter:            twitter.com/asideofdata
-#facebook:           default
-#instagram:          default
-#github:             default
-
 # Social
 analytics-id:       "default"
-twitter:            twitter.com/antonyeshchenko
+twitter:            twitter.com/asideofdata
 # facebook:           
 #instagram:          default
 github:             github.com/yesanton
 
 # personal
-location:           Vienna, CA
+location:           Vienna
 #phone:              310-318-5555
 email:              asideofdata@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
